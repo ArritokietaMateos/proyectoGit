@@ -7,6 +7,8 @@ public class App {
        
         System.out.println("Hello Repositorio Remoto Prueba!");
         System.out.println("Hola subo este mensaje desde cuenta Arritxu1");
+        System.out.println("Hola Arritxu1 subo este mensaje desde cuenta Arritxu2");
+        System.out.println("Agur!");
 
 
     }
